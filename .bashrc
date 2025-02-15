@@ -21,8 +21,6 @@ eval "$(starship init bash)"
 
 neofetch
 
-echo  Wellcome to StarShip! Sir. ---
-echo  github cli token- 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 ---
 
 
 export LIBVA_DRIVER_NAME=i965
